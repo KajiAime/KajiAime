@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KajiAime&theme=gruvbox_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=KajiAime&show_icons=true&theme=gruvbox_duo" width="400">
+
 <!---
 KajiAime/KajiAime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
