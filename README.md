@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KajiAime aka Carbon
 - 👀 I’m interested in developing my programming skills so as to make good use of opportunities when they arise.
-- 🌱 I’m currently learning JavaScript and Java.
+- 🌱 I’m currently learning C and C++.
 - 💞️ I’m looking to collaborate on similar projects especially those created in these languages.
 - 📫 How to reach me: +237 654 456 483 or @EbomNde on Tweeter.
 
