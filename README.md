@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KajiAime aka Carbon
 - 👀 I’m interested in developing my programming skills and computer networking skills and also to bring young developers around me up to a good level.
-- 🌱 I’m currently learning Django and Android development with Java.
+- 🌱 I’m currently learning Django, Laravel and Android development with Java.
 - 💞️ I’m looking to collaborate on similar projects especially those created in these languages.
 - 📫 How to reach me: +@EbomNde on Tweeter or @nde_aime on LinkedIn.
 
